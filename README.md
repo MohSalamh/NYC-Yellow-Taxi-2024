@@ -4,6 +4,7 @@ This project focuses on merging, cleaning and aggregating the yellow taxi data o
 
 ## **Project Overview**
 The trip record files and lookup tables can be found at the below link:
+
 [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 **More** about the Yellow Taxi trip data can be found at link above.
